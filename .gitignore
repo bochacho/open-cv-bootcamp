@@ -5,3 +5,7 @@ archive*
 *.zip
 *.mp4
 *.avi
+*.pb
+*caffemodel
+*prototxt
+*.pbtxt
